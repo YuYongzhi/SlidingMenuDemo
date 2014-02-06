@@ -1,2 +1,2 @@
-SlidingMenuDemo
+SlidingMenuDemo 
 ===============
